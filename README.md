@@ -101,15 +101,15 @@ ovenapp.io 툴 이용했습니다.
 
 ---
 
-## :blue_book: 문제사항과 해결방안
+## :blue_book: 문제사항과 해결 방안
 
 ### 1.
-문제/해결방안 링크:
-https://closed-glade-095.notion.site/myStudyLibrary-2-ec21cf5b53b0428f9bce3c5fa2ff9736
+
+:clipboard: [문제/해결 방안1 링크](https://www.notion.so/myStudyLibrary-2-2cc8fc2aa67d4224bb7336ad2e08c744)
 
 ### 2.
-문제/해결방안 링크:
-https://www.notion.so/myStudyLibrary-2-2cc8fc2aa67d4224bb7336ad2e08c744
+
+:clipboard: [문제/해결 방안2 링크](https://closed-glade-095.notion.site/myStudyLibrary-2-ec21cf5b53b0428f9bce3c5fa2ff9736)
 
 -----------------
 ## 💭 프로젝트 진행 후 느낀 점과 개선하고 싶은 점
@@ -128,5 +128,5 @@ https://www.notion.so/myStudyLibrary-2-2cc8fc2aa67d4224bb7336ad2e08c744
 -----------------------
 ## 📝 회고록
 
- 처음에 REST API 존재를 몰라서 HTTP 메서드에 이미 동사 정보가 있는데 uri에도 포함시키다보니 uri 가 지나치게 길어졌습니다. 프로젝트가 어느정도 진행되고나서야 REST API에 대해 알게돼서 진행된 프로젝트를 크게 바꾸지 않아도 규범을 적용할 수 있는 부분은 적용해줬습니다. 기술 구현에 집중하다 보니 규범에 신경쓰지 못하는 경우가 종종 생겼었습니다. 이 부분은 차차 개선해나가고 싶습니다.
+ 처음에 REST API 존재를 몰라서 HTTP 메서드에 이미 동사 정보가 있는데 uri에도 포함시키다 보니 uri 가 지나치게 길어졌습니다. 프로젝트가 어느 정도 진행되고 나서야 REST API에 대해 알게 돼서 진행된 프로젝트를 크게 바꾸지 않아도 규범을 적용할 수 있는 부분은 적용해 줬습니다. 이처럼 기술 구현에 집중하다 보니 규범에 신경 쓰지 못하는 경우가 종종 생겼었습니다. 이 부분은 차차 개선해나가고 싶습니다.
 
