@@ -107,7 +107,7 @@ ovenapp.io 툴 이용했습니다.
 
 ### 1.
 
-:clipboard: [문제/해결 방안1 링크](https://www.notion.so/myStudyLibrary-2-2cc8fc2aa67d4224bb7336ad2e08c744)
+:clipboard: [문제/해결 방안1 링크](https://closed-glade-095.notion.site/myStudyLibrary-1-2cc8fc2aa67d4224bb7336ad2e08c744)
 
 ### 2.
 
